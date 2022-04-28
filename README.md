@@ -1,16 +1,76 @@
 ### Hi there 👋
 
-<!--
-**cesarkohl/cesarkohl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Since 2010 developing websites and systems using JavaScript and PHP.
 
-Here are some ideas to get you started:
+I love to get better at:
+- Design
+- Front-end
+- Back-end
+- DevOps
+- CyberSecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Front-end Stack
+================================================
+
+*** JavaScript ES6 + TypeScript ***
+Frameworks: React, Next.js, Vue.js, and Angular
+
+Including: boilerplate, developer tools, i18n, components, routing, styling, form validation, fetching, state management, type checking, and testing.
+
+Build Tools: Webpack, Gulp, and Grunt.
+HTML & Template Engines: HTML5, Handlebars, Pug, and Twig.
+CSS Architectures: BEM and SMACSS.
+CSS Preprocessors: CSS Modules, SASS/SCSS, Tailwind, Styled Components, Aphrodite, and Emotion.
+
+JavaScript Frameworks: React, Next.js, Vue.js, and Angular.
+JavaScript Code Style: Prettier and ESLint (preferably Standard).
+JavaScript Preprocessors: Babel and TypeScript.
+JavaScript Animation Libraries: GreenSock (GSAP) and Animate.style.
+JavaScript State Management: Flux, Redux, Composition, Context, and more.
+JavaScript Testing: Cypress.
+JavaScript Fetching: Native fetch, axios, Apollo, RESTful, and GraphQL.
+
+Package Managers: npm and yarn.
+Version Control: Git with GitFlow.
+
+Design Tools: Adobe XD, Figma, Sketch, and more.
+
+Back-end Stack
+================================================
+
+*** PHP 7 ***
+Frameworks: Laravel, WordPress (and Headless WP), CakePHP, and CodeIgniter.
+
+Including: boilerplate, i18n, routing, form validation, testing, RESTful APIs, GraphQL, middleware, debugging, templating, authentication, authorization, databases, pagination, ORMs, Eloquent, Artisan, logging, CSRF, sessions, email verification, encryption, WordPress plugins, ACF, Gutenberg, WPGraphQL, and more.
+
+APIs: RESTful, GraphQL, WGraphQL (for WP).
+Databases: MySQL, MariaDB, and MongoDB.
+Servers: AWS, Google Cloud, and Vercel.
+
+*** JavaScript ES6 + TypeScript ***
+Frameworks: Node.js + Express
+
+Including: boilerplate, i18n, routing, form validation, testing, RESTful APIs, middleware, debugging, and more.
+
+DevOps Stack
+================================================
+
+*** AWS ***
+Architectures: Serverless and Monolithic (EC2-based)
+Tools: AWS Console, SAM, CloudFormation and Serverless.com
+
+Services: CloudFormation, CloudFront, AppSync, API Gateway, S3, EC2, ELB, ASG, SNS, SQS, Lambda, EventBridge, StepFunctions, RDS, Aurora, DynamoDB, ECS, and KMS.
+
+Agile Methodologies
+================================================
+Scrum, unit testing, TDD, pair programming, sprints, planning poker, kanban, and backlog.
+
+Open-Source projects I contributed so far
+================================================
+
+- https://github.com/laravel/framework/
+
+Hobbies
+================================================
+
+Gaming, cooking, and travelling with my wife.
