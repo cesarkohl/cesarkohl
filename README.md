@@ -13,9 +13,10 @@ And I'm very curious about:
 - Management
 
 Front-end Stack
-================================================
+===
 
-*** JavaScript ES6 + TypeScript ***
+### *** JavaScript ES6 + TypeScript ***
+
 Frameworks: React, Next.js, Vue.js, and Angular
 
 Including: boilerplate, developer tools, i18n, components, routing, styling, form validation, fetching, state management, type checking, and testing.
@@ -41,7 +42,8 @@ Design Tools: Adobe XD, Figma, Sketch, and more.
 Back-end Stack
 ================================================
 
-*** PHP 8 ***
+### *** PHP 8 ***
+
 Frameworks: Laravel, WordPress (and Headless WP), CakePHP, and CodeIgniter.
 
 Including: boilerplate, i18n, routing, form validation, testing, RESTful APIs, GraphQL, middleware, debugging, templating, authentication, authorization, databases, pagination, ORMs, Eloquent, Artisan, logging, CSRF, sessions, email verification, encryption, WordPress plugins, ACF, Gutenberg, WPGraphQL, and more.
@@ -51,7 +53,8 @@ Databases: MySQL, MariaDB, and MongoDB.
 Servers: AWS, Google Cloud, and Vercel.
 Testing: PHPUnit.
 
-*** JavaScript ES6 + TypeScript ***
+### *** JavaScript ES6 + TypeScript ***
+
 Frameworks: Node.js + Express
 
 Including: boilerplate, i18n, routing, form validation, testing, RESTful APIs, middleware, debugging, and more.
@@ -59,7 +62,8 @@ Including: boilerplate, i18n, routing, form validation, testing, RESTful APIs, m
 DevOps Stack
 ================================================
 
-*** AWS ***
+### *** AWS ***
+
 Architectures: Serverless and Monolithic (EC2-based)
 Tools: AWS Console, SAM, CloudFormation and Serverless.com
 
@@ -67,6 +71,7 @@ Services: CloudFormation, CloudFront, AppSync, API Gateway, S3, EC2, ELB, ASG, S
 
 Agile Methodologies
 ================================================
+
 Scrum, unit testing, TDD, pair programming, sprints, planning poker, kanban, and backlog.
 
 Open-Source projects I contributed so far
