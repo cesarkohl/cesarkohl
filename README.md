@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Engineer who started his carreer in 2010 and is mostly focused on JavaScript, PHP, and AWS.
+I'm a Software Engineer who started his career in 2010 and is mostly focused on JavaScript, PHP, and AWS.
 
 I love to get better at:
 - Front-end
