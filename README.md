@@ -9,9 +9,9 @@ I love to get better at:
 - CyberSecurity
 
 And I'm very curious about:
-- Remote work
-- Typed Languages
 - Distributed systems
+- Typed Languages
+- Remote work
 - Management
 - Design
 
@@ -20,57 +20,80 @@ Front-end Stack
 
 ### *** JavaScript ES6 + TypeScript ***
 
-Frameworks: React, Next.js, Vue.js, and Angular
+**Frameworks:** React, Next.js, Vue.js, and Angular
 
-Including: boilerplate, developer tools, i18n, components, routing, styling, form validation, fetching, state management, type checking, and testing.
+**Including:** boilerplate, developer tools, i18n, components, routing, styling, form validation, fetching, state management, type checking, and testing.
 
-Build Tools: Webpack, Gulp, and Grunt.
-HTML & Template Engines: HTML5, Handlebars, Pug, and Twig.
-CSS Architectures: BEM and SMACSS.
-CSS Preprocessors: CSS Modules, SASS/SCSS, Tailwind, Styled Components, Aphrodite, and Emotion.
+**Build Tools:** Webpack, Gulp, and Grunt.
 
-JavaScript Frameworks: React, Next.js, Vue.js, and Angular.
-JavaScript Code Style: Prettier and ESLint (preferably Standard).
-JavaScript Preprocessors: Babel and TypeScript.
-JavaScript Animation Libraries: GreenSock (GSAP) and Animate.style.
-JavaScript State Management: Flux, Redux, Composition, Context, and more.
-JavaScript Testing: Cypress and Jest.
-JavaScript Fetching: Native fetch, axios, Apollo, RESTful, and GraphQL.
+**HTML & Template Engines:** HTML5, Handlebars, Pug, and Twig.
 
-Package Managers: npm and yarn.
-Version Control: Git with GitFlow.
+**CSS Architectures:** BEM and SMACSS.
 
-Design Tools: Adobe XD, Figma, Sketch, and more.
+**CSS Preprocessors:** CSS Modules, SASS/SCSS, Tailwind, Styled Components, Aphrodite, and Emotion.
+
+---
+
+**JavaScript Frameworks:** React, Next.js, Vue.js, and Angular.
+
+**JavaScript Code Style:** Prettier and ESLint (preferably Standard).
+
+**JavaScript Preprocessors:** Babel and TypeScript.
+
+**JavaScript Animation Libraries:** GreenSock (GSAP) and Animate.style.
+
+**JavaScript State Management:** Flux, Redux, Composition, Context, and more.
+
+**JavaScript Testing:** Cypress and Jest.
+
+**JavaScript Fetching:** Native fetch, axios, Apollo, RESTful, and GraphQL.
+
+---
+
+**Package Managers:** npm and yarn.
+
+**Version Control:** Git with GitFlow.
+
+---
+
+**Design Tools:** Adobe XD, Figma, Sketch, and more.
+
 
 Back-end Stack
 ================================================
 
 ### *** PHP 8 ***
 
-Frameworks: Laravel, WordPress (and Headless WP), CakePHP, and CodeIgniter.
+**Frameworks:** Laravel, WordPress (and Headless WP), CakePHP, and CodeIgniter.
 
-Including: boilerplate, i18n, routing, form validation, testing, RESTful APIs, GraphQL, middleware, debugging, templating, authentication, authorization, databases, pagination, ORMs, Eloquent, Artisan, logging, CSRF, sessions, email verification, encryption, WordPress plugins, ACF, Gutenberg, WPGraphQL, and more.
+**Including:** boilerplate, i18n, routing, form validation, testing, RESTful APIs, GraphQL, middleware, debugging, templating, authentication, authorization, databases, pagination, ORMs, Eloquent, Artisan, logging, CSRF, sessions, email verification, encryption, WordPress plugins, ACF, Gutenberg, WPGraphQL, and more.
 
-APIs: RESTful, GraphQL, WGraphQL (for WP).
-Databases: MySQL, MariaDB, and MongoDB.
-Servers: AWS, Google Cloud, and Vercel.
-Testing: PHPUnit.
+**APIs:** RESTful, GraphQL, WGraphQL (for WP).
+
+**Databases:** MySQL, MariaDB, and MongoDB.
+
+**Servers:** AWS, Google Cloud, and Vercel.
+
+**Testing:** PHPUnit.
+
+---
 
 ### *** JavaScript ES6 + TypeScript ***
 
-Frameworks: Node.js + Express
+**Frameworks:** Node.js + Express
 
-Including: boilerplate, i18n, routing, form validation, testing, RESTful APIs, middleware, debugging, and more.
+**Including:** boilerplate, i18n, routing, form validation, testing, RESTful APIs, middleware, debugging, and more.
 
 DevOps Stack
 ================================================
 
 ### *** AWS ***
 
-Architectures: Serverless and Monolithic (EC2-based)
-Tools: AWS Console, SAM, CloudFormation and Serverless.com
+**Architectures:** Serverless and Monolithic (EC2-based)
 
-Services: CloudFormation, CloudFront, AppSync, API Gateway, S3, EC2, ELB, ASG, SNS, SQS, Lambda, EventBridge, StepFunctions, RDS, Aurora, DynamoDB, ECS, and KMS.
+**Tools:** AWS Console, SAM, CloudFormation and Serverless.com
+
+**Services:** CloudFormation, CloudFront, AppSync, API Gateway, S3, EC2, ELB, ASG, SNS, SQS, Lambda, EventBridge, StepFunctions, RDS, Aurora, DynamoDB, ECS, and KMS.
 
 Agile Methodologies
 ================================================
