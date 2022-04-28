@@ -9,8 +9,11 @@ I love to get better at:
 - CyberSecurity
 
 And I'm very curious about:
-- Design
+- Remote work
+- Typed Languages
+- Distributed systems
 - Management
+- Design
 
 Front-end Stack
 ===
