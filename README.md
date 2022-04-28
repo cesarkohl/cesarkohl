@@ -6,11 +6,11 @@ I love to get better at:
 - Front-end
 - Back-end
 - DevOps
-- CyberSecurity
 
 And I'm very curious about:
 - Distributed systems
 - Typed Languages
+- CyberSecurity
 - Remote work
 - Management
 - Design
