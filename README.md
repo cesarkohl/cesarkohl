@@ -1,13 +1,16 @@
 ### Hi there 👋
 
-Since 2010 developing websites and systems using JavaScript and PHP.
+I'm an Engineer who started his carreer in 2010 and is mostly focused on JavaScript, PHP, and AWS.
 
 I love to get better at:
-- Design
 - Front-end
 - Back-end
 - DevOps
 - CyberSecurity
+
+And I'm very curious about:
+- Design
+- Management
 
 Front-end Stack
 ================================================
@@ -27,7 +30,7 @@ JavaScript Code Style: Prettier and ESLint (preferably Standard).
 JavaScript Preprocessors: Babel and TypeScript.
 JavaScript Animation Libraries: GreenSock (GSAP) and Animate.style.
 JavaScript State Management: Flux, Redux, Composition, Context, and more.
-JavaScript Testing: Cypress.
+JavaScript Testing: Cypress and Jest.
 JavaScript Fetching: Native fetch, axios, Apollo, RESTful, and GraphQL.
 
 Package Managers: npm and yarn.
@@ -38,7 +41,7 @@ Design Tools: Adobe XD, Figma, Sketch, and more.
 Back-end Stack
 ================================================
 
-*** PHP 7 ***
+*** PHP 8 ***
 Frameworks: Laravel, WordPress (and Headless WP), CakePHP, and CodeIgniter.
 
 Including: boilerplate, i18n, routing, form validation, testing, RESTful APIs, GraphQL, middleware, debugging, templating, authentication, authorization, databases, pagination, ORMs, Eloquent, Artisan, logging, CSRF, sessions, email verification, encryption, WordPress plugins, ACF, Gutenberg, WPGraphQL, and more.
@@ -46,6 +49,7 @@ Including: boilerplate, i18n, routing, form validation, testing, RESTful APIs, G
 APIs: RESTful, GraphQL, WGraphQL (for WP).
 Databases: MySQL, MariaDB, and MongoDB.
 Servers: AWS, Google Cloud, and Vercel.
+Testing: PHPUnit.
 
 *** JavaScript ES6 + TypeScript ***
 Frameworks: Node.js + Express
