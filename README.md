@@ -15,7 +15,7 @@ And I'm very curious about:
 - Management
 - Design
 
-![Snake animation](https://github.com/cesarkohl/cesarkohl/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/juliekoh/juliekohl/blob/output/github-contribution-grid-snake.svg)
 
 Front-end Stack
 ===
