@@ -106,6 +106,7 @@ Open-Source projects I contributed so far
 ================================================
 
 - https://github.com/laravel/framework/
+- https://github.com/awsdocs/amazon-rekognition-developer-guide/
 
 Hobbies
 ================================================
