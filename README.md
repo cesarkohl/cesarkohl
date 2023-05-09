@@ -14,3 +14,10 @@ And I'm very curious about:
 - Remote work
 - Management
 - Design
+
+Open-Source projects I contributed so far:
+- Next.js
+- Nest.js
+- Laravel
+- AWS NorthStar
+- OWASP Top 10
