@@ -15,7 +15,7 @@ And I'm very curious about:
 - Management
 - Design
 
-Open-Source projects I contributed so far:
+Open-Source projects I've contributed so far:
 - AWS NorthStar
 - Laravel
 - Nest.js
