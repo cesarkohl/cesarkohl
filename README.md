@@ -16,8 +16,8 @@ And I'm very curious about:
 - Design
 
 Open-Source projects I contributed so far:
-- Next.js
-- Nest.js
-- Laravel
 - AWS NorthStar
+- Laravel
+- Nest.js
+- Next.js
 - OWASP Top 10
