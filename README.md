@@ -17,7 +17,9 @@ And I'm very curious about:
 
 Open-Source projects I've contributed so far:
 - AWS NorthStar
+- Electron
 - Laravel
 - Nest.js
+- Nest CLI
 - Next.js
 - OWASP Top 10
