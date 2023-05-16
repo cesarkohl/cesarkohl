@@ -23,3 +23,4 @@ Open-Source projects I've contributed so far:
 - Nest CLI
 - Next.js
 - OWASP Top 10
+- Prettier
