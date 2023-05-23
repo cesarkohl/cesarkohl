@@ -16,12 +16,12 @@ And I'm very curious about:
 - Design
 
 Open-Source projects I've contributed so far:
-- AWS NorthStar
-- Electron
-- Ionic Framework
-- Laravel
-- Nest.js
-- Nest CLI
-- Next.js
-- OWASP Top 10
-- Prettier
+1. AWS NorthStar
+1. Electron
+1. Ionic Framework
+1. Laravel
+1. Nest.js
+1. Nest CLI
+1. Next.js
+1. OWASP Top 10
+1. Prettier
