@@ -18,6 +18,7 @@ And I'm very curious about:
 Open-Source projects I've contributed so far:
 - AWS NorthStar
 - Electron
+- Ionic Framework
 - Laravel
 - Nest.js
 - Nest CLI
