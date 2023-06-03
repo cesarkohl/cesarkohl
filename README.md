@@ -25,3 +25,4 @@ Open-Source projects I've contributed so far:
 1. Next.js
 1. OWASP Top 10
 1. Prettier
+1. WP GraphQL
